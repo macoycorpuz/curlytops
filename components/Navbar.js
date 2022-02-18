@@ -9,7 +9,7 @@ const navigation = [
   { name: 'Company', href: '#' }
 ]
 
-const NavBar = () => {
+export default function Navbar() {
   return (
     <Popover>
       <div className="relative px-4 pt-6 sm:px-6 lg:px-8">

@@ -1,4 +1,4 @@
-import style from './Glitch.module.css'
+import style from '../styles/Glitch.module.css'
 
 export default function GlitchText({ name }) {
   return (
